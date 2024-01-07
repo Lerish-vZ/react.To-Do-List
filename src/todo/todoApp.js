@@ -1,5 +1,5 @@
 import React from "react";
-import TodoList from ".tTodoList";
+import TodoList from ".todoList";
 
 class TodoApp extends React.Component {
   constructor(){
